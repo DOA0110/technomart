@@ -1,0 +1,40 @@
+:root {
+    --basic-black: #000000;
+    --basic-dark: #32425C;
+    --basic-extra-dark:   #293449;
+    --basic-gray: #3D546F;
+    --special-gray: #A9A9A9;
+    --basic-gray-light: #C5C5C5;
+    --basic-background-accient: #F7F3EC;
+    --basic-background: #F1F5F7;
+    --basic-white: #ffffff;
+    --basic-red: #EE3643;
+    --basic-red-hover: #CA2C37;
+    --basic-red-click: #BA2732;
+    --basic-error: #BA2732;
+    --special-yellow: #FFBF47;
+    --basic-green: #63A63E;
+    --special-green: ##8ED78F;
+    --basic-green-hover: #5FBB2D;
+    --basic-green-click: #518534;
+    --special-blue:  #3BBCE3;
+    --special-violet:  #DC91D8;
+    -special-links: #FFD180;
+}
+.page-body {
+  color: --basic-black;
+  font-family: "PT Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 24px;
+  background-color: --basic-background;
+  margin: 0;
+  padding: 0;
+  min-width: 940px;
+}
+
+.main-header {
+
+}
+
